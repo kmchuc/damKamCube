@@ -34,8 +34,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59525393/108770581-8f529000-74fe-11eb-95a1-e1a18b6b5157.png">
 </p>
-I rendered this 3D cube using Three.js. Creating this cube helped me realize how powerful the Three.js library is. Anything can be rendered through 3D modeling and
-I'm really excited to see where this type of technology goes. 
+I rendered this 3D cube using Three.js. Creating this cube helped me realize how powerful the Three.js library is. Each face was created using an image of a letter. The same code can be applied to anyone trying to create a 3D cube of their name as well. Anything can be rendered through 3D modeling and I'm really excited to see where this type of technology goes. 
 
 ### Built With
 * [Three.js] (https://threejs.org/)
